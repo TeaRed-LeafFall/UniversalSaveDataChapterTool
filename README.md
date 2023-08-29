@@ -6,8 +6,8 @@
 实现存档位扩展功能，方便存档不够用的玩家加载以前的存档。
 
 ## 图片
-[](https://github.com/ADVN-Project/UniversalSaveDataChapterTool/blob/master/_UI.png)
-[](https://github.com/ADVN-Project/UniversalSaveDataChapterTool/blob/master/Help.png)
+![](https://github.com/ADVN-Project/UniversalSaveDataChapterTool/blob/master/_UI.png)
+![](https://github.com/ADVN-Project/UniversalSaveDataChapterTool/blob/master/_Help.png)
 
 ## 使用帮助
 ### A.第一次打开（注册游戏存档目录和如何存档）
