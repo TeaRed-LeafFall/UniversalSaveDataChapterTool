@@ -1,3 +1,17 @@
+## 祝贺！
+感谢使用Universal SaveData Chapter Tool!
+Universal SaveData Chapter Tool v2.23.9.28 中秋节更新！！
+项目链接 https://github.com/TeaRed-LeafFall/UniversalSaveDataChapterTool
+作者 https://github.com/TeaRed-LeafFall
+
+茶红落叶 祝你中秋节快乐!
+太平风物，团圆安康!
+
+简易的操作指示：
+请加载对应游戏的存档位置（选择注册，打开文件夹或者拖动文件夹到窗口）
+如果加载完成了将会保存已经被集合记录的文件夹（在SaveDataPaths.txt）
+操作非常简单，基本无需教程
+
 # Universal SaveData Chapter Tool
 "Universal SaveData Chapter Tool" 
 
@@ -9,22 +23,3 @@
 ![](https://github.com/ADVN-Project/UniversalSaveDataChapterTool/blob/master/_UI.png)
 ![](https://github.com/ADVN-Project/UniversalSaveDataChapterTool/blob/master/_Help.png)
 
-## 使用帮助
-### A.第一次打开（注册游戏存档目录和如何存档）
-1. 点击"打开文件夹"（拖动文件夹到本窗口也可以）
-2. 选择文件
-3. 点击"保存到新Part"
-4. 享受吧！
-### B.多个游戏存档管理？
-1. 点击"注册新文件夹路径"(使用"打开文件夹"也可以)
-2. 在集合的选择框中选择游戏，即可切换目录
-3. 如果需要删除目录记录点击"删除注册的文件夹路径"
-4. 体验管理的便携吧！
-### C.加载存档？
-1. 选择完成游戏存档目录之后(在集合中选则)
-2. 点击"加载当前选中的Part"旁边的选择框进行选择Part
-3. 点击"加载当前选中的Part"
-4. 体验存档吧！
-### D.删除存档?
-1. 为了避免删除错误，请自己主动去游戏存档目录
-2. 本工具只是存档和加载的工具，没有删除功能

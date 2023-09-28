@@ -22,7 +22,7 @@ namespace Universal_SaveData_Chapter_Tool.Properties {
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    internal class Resources {
+    public class Resources {
         
         private static global::System.Resources.ResourceManager resourceMan;
         
@@ -36,7 +36,7 @@ namespace Universal_SaveData_Chapter_Tool.Properties {
         ///   返回此类使用的缓存的 ResourceManager 实例。
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Resources.ResourceManager ResourceManager {
+        public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Universal_SaveData_Chapter_Tool.Properties.Resources", typeof(Resources).Assembly);
@@ -51,7 +51,7 @@ namespace Universal_SaveData_Chapter_Tool.Properties {
         ///   使用此强类型资源类的所有资源查找执行重写。
         /// </summary>
         [global::System.ComponentModel.EditorBrowsableAttribute(global::System.ComponentModel.EditorBrowsableState.Advanced)]
-        internal static global::System.Globalization.CultureInfo Culture {
+        public static global::System.Globalization.CultureInfo Culture {
             get {
                 return resourceCulture;
             }
@@ -61,9 +61,29 @@ namespace Universal_SaveData_Chapter_Tool.Properties {
         }
         
         /// <summary>
+        ///   查找类似 感谢使用Universal SaveData Chapter Tool!
+        ///Universal SaveData Chapter Tool v2.23.9.28 中秋节更新！！
+        ///项目链接 https://github.com/TeaRed-LeafFall/UniversalSaveDataChapterTool
+        ///原作者 github.com/TeaRed-LeafFall
+        ///===
+        ///茶红落叶 祝你中秋节快乐!
+        ///太平风物，团圆安康!
+        ///===
+        ///简易的操作指示：
+        ///请加载对应游戏的存档位置（选择注册，打开文件夹或者拖动文件夹到窗口）
+        ///如果加载完成了将会保存已经被集合记录的文件夹（在SaveDataPaths.txt）
+        ///操作非常简单，基本无需教程 的本地化字符串。
+        /// </summary>
+        public static string about {
+            get {
+                return ResourceManager.GetString("about", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   查找 System.Drawing.Bitmap 类型的本地化资源。
         /// </summary>
-        internal static System.Drawing.Bitmap ADVN64 {
+        public static System.Drawing.Bitmap ADVN64 {
             get {
                 object obj = ResourceManager.GetObject("ADVN64", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
