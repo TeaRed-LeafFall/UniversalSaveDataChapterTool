@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("Universal SaveData Chapter Tool v2.23.9.28 Mid-Autumn Festival update")]
+[assembly: AssemblyTitle("Universal SaveData Chapter Tool v2.23.11.10")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Universal SaveData Chapter Tool")]
-[assembly: AssemblyCopyright("Copyright ©  2023 茶红落叶")]
+[assembly: AssemblyCopyright("Copyright ©  2023 茶红落叶 & Cheng Lili")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 //可以指定所有这些值，也可以使用“生成号”和“修订号”的默认值
 //通过使用 "*"，如下所示:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("2.23.9.28")]
-[assembly: AssemblyFileVersion("2.23.9.29")]
+[assembly: AssemblyVersion("2.23.11.10")]
+[assembly: AssemblyFileVersion("2.23.11.10")]

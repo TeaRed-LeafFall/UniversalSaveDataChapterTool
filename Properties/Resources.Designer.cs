@@ -62,12 +62,10 @@ namespace Universal_SaveData_Chapter_Tool.Properties {
         
         /// <summary>
         ///   查找类似 感谢使用Universal SaveData Chapter Tool!
-        ///Universal SaveData Chapter Tool v2.23.9.28 中秋节更新！！
+        ///Universal SaveData Chapter Tool v2.23.11.10
         ///项目链接 https://github.com/TeaRed-LeafFall/UniversalSaveDataChapterTool
         ///原作者 github.com/TeaRed-LeafFall
-        ///===
-        ///茶红落叶 祝你中秋节快乐!
-        ///太平风物，团圆安康!
+        ///by 茶红落叶 &amp; Cheng Lili
         ///===
         ///简易的操作指示：
         ///请加载对应游戏的存档位置（选择注册，打开文件夹或者拖动文件夹到窗口）

@@ -127,12 +127,10 @@
             this.filelistbox.FormattingEnabled = true;
             this.filelistbox.Items.AddRange(new object[] {
             "感谢使用Universal SaveData Chapter Tool!",
-            "Universal SaveData Chapter Tool v2.23.9.28 中秋节更新！！",
+            "Universal SaveData Chapter Tool v2.23.11.10",
             "项目链接 https://github.com/TeaRed-LeafFall/UniversalSaveDataChapterTool",
             "原作者 github.com/TeaRed-LeafFall",
-            "===",
-            "茶红落叶 祝你中秋节快乐!",
-            "太平风物，团圆安康!",
+            "by 茶红落叶 & Cheng Lili",
             "===",
             "简易的操作指示：",
             "请加载对应游戏的存档位置（选择注册，打开文件夹或者拖动文件夹到窗口）",
@@ -242,7 +240,6 @@
             this.partslistbox.MaxDropDownItems = 80;
             this.partslistbox.Name = "partslistbox";
             this.partslistbox.Size = new System.Drawing.Size(524, 20);
-            this.partslistbox.Sorted = true;
             this.partslistbox.TabIndex = 2;
             // 
             // loadbut
@@ -281,7 +278,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MinimumSize = new System.Drawing.Size(401, 545);
             this.Name = "MainWindow";
-            this.Text = "Universal SaveData Chapter Tool v2.23.9.28 中秋节更新！！";
+            this.Text = "Universal SaveData Chapter Tool v2.23.11.10";
             this.Load += new System.EventHandler(this.MainWindow_Load);
             this.groupBox1.ResumeLayout(false);
             this.splitContainer1.Panel1.ResumeLayout(false);
