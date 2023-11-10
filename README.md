@@ -1,16 +1,11 @@
 ## 祝贺！
 感谢使用Universal SaveData Chapter Tool!
 
-Universal SaveData Chapter Tool v2.23.9.28 中秋节更新！！
+Universal SaveData Chapter Tool v2.23.11.10
 
 项目链接 https://github.com/TeaRed-LeafFall/UniversalSaveDataChapterTool
-
-作者 https://github.com/TeaRed-LeafFall
-
-茶红落叶 祝你中秋节快乐!
-
-太平风物，团圆安康!
-
+原作者 github.com/TeaRed-LeafFall
+by 茶红落叶 & Cheng Lili
 
 简易的操作指示：
 
@@ -26,8 +21,4 @@ Universal SaveData Chapter Tool v2.23.9.28 中秋节更新！！
 是一个用于剪切 Savedata 文件夹内容到 Savedata.partXXX文件夹的工具，
 
 实现存档位扩展功能，方便存档不够用的玩家加载以前的存档。
-
-## 图片
-![](https://github.com/ADVN-Project/UniversalSaveDataChapterTool/blob/master/_UI.png)
-![](https://github.com/ADVN-Project/UniversalSaveDataChapterTool/blob/master/_Help.png)
 
